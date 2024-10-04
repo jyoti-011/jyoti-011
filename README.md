@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Backend Technologies (MERN)
 - 💞️ I’m looking to collaborate on Web dev Projects
+- And also deeply interested in Software Quality Testing
 - 📫 How to reach me
   LinkedIn : https://www.linkedin.com/in/jyoti-pal-4390312b7
 
